@@ -8,7 +8,7 @@
 
 - 📝 You can view my LinkedIn Profile here - [Sanghmitra Sisodiya LinkedIn](https://www.linkedin.com/in/sanghmitra-sisodiya-229986173/)
 
-- 📫 How to reach me **sanghmitrasisodiya22@gmail.com**
+- 📫 Email for Work Opportunities - **sanghmitrasisodiya22@gmail.com**
 
 - 📄 Data Visualization Portfolio  [https://www.novypro.com/profile_projects/sanghmitrasisodiya](https://www.novypro.com/profile_projects/sanghmitrasisodiya)
 
