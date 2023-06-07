@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sanghmitra Sisodiya</h1>
-<h3 align="center">A passionate Data Professional from India</h3>
+<h3 align="center">An Aspiring Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🌱 My Skills are **Data Analysis, Data Visualization, Data Wrangling, Storytelling with Data, Tools - SQL, MySQL, Power BI, Advanced Excel, Python Libraries, Pandas, Numpy, Matplotlib, Seaborn, Canva, Microsoft PowerPoint**
+- 🌱 My Skills are **Data Analysis, Data Visualization, Data Wrangling, Storytelling with Data, Solving Business Problems with Data Analysis, Business understanding (Business Grad) 
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/sanghmitra-sisodiya-229986173/](https://www.linkedin.com/in/sanghmitra-sisodiya-229986173/)
+- Tools I'm versed with - **SQL, MySQL, Power BI, Advanced Excel, Python Libraries (like Pandas, Numpy, Matplotlib, Seaborn), Canva, Microsoft PowerPoint**
+
+- 📝 You can view my LinkedIn Profile here - [Sanghmitra Sisodiya LinkedIn](https://www.linkedin.com/in/sanghmitra-sisodiya-229986173/)
 
 - 📫 How to reach me **sanghmitrasisodiya22@gmail.com**
 
-- 📄 Know about my experiences [https://www.novypro.com/profile_projects/sanghmitrasisodiya](https://www.novypro.com/profile_projects/sanghmitrasisodiya)
+- 📄 Data Visualization Portfolio  [https://www.novypro.com/profile_projects/sanghmitrasisodiya](https://www.novypro.com/profile_projects/sanghmitrasisodiya)
 
 - ⚡ Fun fact **I am a Positive and Grateful person**
 
