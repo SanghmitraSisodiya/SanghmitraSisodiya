@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🌱 My Skills are **Data Analysis, Data Visualization, Data Wrangling, Storytelling with Data, Solving Business Problems with Data Analysis, Business understanding (Business Grad) 
+- 🌱 My Skills are **Data Analysis, Data Visualization, Data Wrangling, Storytelling with Data, Solving Business Problems with Data Analysis, Business understanding (Business Grad)** 
 
 - Tools I'm versed with - **SQL, MySQL, Power BI, Advanced Excel, Python Libraries (like Pandas, Numpy, Matplotlib, Seaborn), Canva, Microsoft PowerPoint**
 
