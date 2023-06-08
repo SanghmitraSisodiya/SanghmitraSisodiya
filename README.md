@@ -4,7 +4,7 @@
 
 - 🌱 My Skills are **Data Analysis, Data Visualization, Data Wrangling, Storytelling with Data, Solving Business Problems with Data Analysis, Business understanding (Business Grad)** 
 
-- Tools I'm versed with - **SQL, MySQL, Power BI, Advanced Excel, Python Libraries (like Pandas, Numpy, Matplotlib, Seaborn), Canva, Microsoft PowerPoint**
+- Tools I'm versed with - **SQL, MySQL, Power BI, Advanced Excel, Python Libraries (like Pandas, Numpy), Canva, Microsoft PowerPoint**
 
 - 📝 You can view my LinkedIn Profile here - [Sanghmitra Sisodiya LinkedIn](https://www.linkedin.com/in/sanghmitra-sisodiya-229986173/)
 
