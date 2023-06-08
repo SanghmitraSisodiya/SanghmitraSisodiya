@@ -6,11 +6,11 @@
 
 - Tools I'm versed with - **SQL, MySQL, Power BI, Advanced Excel, Python Libraries (like Pandas, Numpy), Canva, Microsoft PowerPoint**
 
+- 📄 Data Visualization Portfolio (Interactive)  [https://www.novypro.com/profile_projects/sanghmitrasisodiya](https://www.novypro.com/profile_projects/sanghmitrasisodiya)
+
 - 📝 You can view my LinkedIn Profile here - [Sanghmitra Sisodiya LinkedIn](https://www.linkedin.com/in/sanghmitra-sisodiya-229986173/)
 
 - 📫 Email for Work Opportunities - **sanghmitrasisodiya22@gmail.com**
-
-- 📄 Data Visualization Portfolio  [https://www.novypro.com/profile_projects/sanghmitrasisodiya](https://www.novypro.com/profile_projects/sanghmitrasisodiya)
 
 - ⚡ Fun fact **I am a Positive and Grateful person**
 
